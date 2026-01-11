@@ -1,9 +1,14 @@
 <?php
 /*
 Plugin Name: Notice Board
-Description: Simple Notice Board with Bold & Italic editor, success message, and frontend scroll
+Plugin URI: https://github.com/uttam04aug/Notice-Board-Wordpress-Plugin
+Description: A simple Notice Board plugin with Bold & Italic editor support, success messages, and a scrolling notice display on the frontend.
 Version: 1.2
 Author: Uttam Singh
+Author URI: https://github.com/uttam04aug
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: notice-board
 */
 
 if (!defined('ABSPATH')) exit;
